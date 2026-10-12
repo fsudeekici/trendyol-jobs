@@ -18,6 +18,9 @@ dist/
 .coverage
 htmlcov/
 
+# Spider output
+data/
+
 # Secrets
 .env
 
